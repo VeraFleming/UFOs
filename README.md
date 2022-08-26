@@ -26,7 +26,7 @@ On the left of the table we located our filters:
 The filtered data will appear in the new table as soon as you enter your input and press Enter or Return, due to the way our JavaScript code was written.
 For example we can enter the date and we will see the table with just chosen dates:
 
- <img src= "static/images/filter_date.png" width = "300">
+ <img src= "static/images/Filter_date.png" width = "300">
  
  <img src= "static/images/filter_dates_result.png" width = "600"> 
 
