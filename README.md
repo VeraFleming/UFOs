@@ -9,7 +9,7 @@ Next, we need to organize everything into a neat HTML page, including the articl
 ## Results:
 If you click at this link https://verafleming.github.io/UFOs/ you can see the web page we did. It looks pretty interactive and eye catching webpage.At the top of the page you can see header with customized background.
 
-<img src= "images/header.png" width = "210"> 
+<img src= "static/images/header.png" width = "210"> 
 
 Right after a header you can see our article:
 
